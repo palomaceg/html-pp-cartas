@@ -14,9 +14,9 @@ Contarás con la ayuda del texto en el siguiente archivo [Texto de carta](letter
 
 ## Requisitos ##
 
-:gears: Editor de texto.
+:gear: Editor de texto.
 
-:gears: Plugin con livereload.
+:gear: Plugin con livereload.
 
 No alinear texto a la derecha.
 
