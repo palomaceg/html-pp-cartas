@@ -16,7 +16,7 @@ Contarás con la ayuda del texto en el siguiente archivo [Texto de carta](letter
 
 :gear: Editor de texto.
 
-:gear: Plugin con livereload.
+:gear: Plugin con live server.
 
 No alinear texto a la derecha.
 
